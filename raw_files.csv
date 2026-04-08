@@ -1,0 +1,21 @@
+company,location,industry,total_laid_off,percentage_laid_off,date,stage,country,funds_raised_millions
+Techify ,Bangalore,Tech,200,10%,01/15/2023,Series B,India,50
+Techify,Bangalore,Tech,200,10%,01/15/2023,Series B,India,50
+FinCorp, Mumbai,Finance,,15%,02/20/2023,Series C,India,100
+HealthPlus,Delhi,Healthcare,150,,03-10-2023,Series A,India,30
+EduSmart,Hyderabad,EdTech,100,5%,13-01-2023,Seed,India,10
+RetailHub,Chennai,Retail,300,25%,04-05-2023,Series D,India,200
+RetailHub,Chennai,Retail,300,25%,04-05-2023,Series D,India,200
+AutoDrive,Pune,Automobile, ,20%,05/18/2023,Series B,India,150
+GreenEnergy, Bangalore,Energy,120,12%,06/25/2023,Series A,India,80
+Foodies,Delhi,Food,90,8%,07/30/2023,Series B,India,60
+foodies ,Delhi,Food,90,8%,07/30/2023,Series B,India,60
+MediCare,Chennai,Healthcare,NULL,18%,08/15/2023,Series C,India,120
+QuickShop,Mumbai,Retail,250,30%,09-10-2023,Series B,India,90
+QuickShop,Mumbai,Retail,250,30%,09-10-2023,Series B,India,90
+InnoTech,Hyderabad,Tech,180,15%,10-05-2023,Series A,India,70
+FinCorp,Mumbai,Finance,220,15%,02/20/2023,Series C,India,100
+SkyHigh,Pune,Aviation,140,10%,11-11-2023,Series B,India,110
+TravelGo,Delhi,Travel,130,12%,12-01-2023,Series A,India,95
+TravelGo,Delhi,Travel,130,12%,12-01-2023,Series A,India,95
+AutoDrive,Pune,Automobile,170,20%,05/18/2023,Series B,India,150
